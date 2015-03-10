@@ -13,7 +13,7 @@
   },
   {
     "remote": "github",
-    "repository": "blkredstarV/M7BlkRedStarKernel",
+    "repository": "blkredstarV/M7BlkStarKernel",
     "target_path": "kernel/htc/msm8960",
     "branch":      "lp"
   },
